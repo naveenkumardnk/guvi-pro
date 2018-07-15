@@ -6,6 +6,7 @@ void main()
 char x[50],y[50];
 int i,count=0,c,xl,yl;
 clrscr();
+  printf("enter the x&y");
 gets(x);
 gets(y);
 xl=strlen(x);
